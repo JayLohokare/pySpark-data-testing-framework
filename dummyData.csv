@@ -1,0 +1,31 @@
+﻿Region,Country,Operator,Technology,Dec 12,Dec 13,Dec 14,Dec 15
+Central & Southern Asia,India,Aircel,2G,"61,641,730","64,026,949","73,953,132","78,533,335"
+Central & Southern Asia,India,Aircel,3G,"1,705,553","3,132,854","4,720,413","7,021,845"
+Central & Southern Asia,India,Aircel,4G,0,0,"10,450","77,069"
+Central & Southern Asia,India,Bharti Airtel,2G,"175,114,604","186,839,166","197,743,777","209,904,668"
+Central & Southern Asia,India,Bharti Airtel,3G,"6,800,000","11,567,371","19,471,265","31,925,000"
+Central & Southern Asia,India,Bharti Airtel,4G,"15,000","106,911","252,862","1,459,736"
+Central & Southern Asia,India,BSNL,2G,"92,640,001","88,505,700","72,749,408","70,404,093"
+Central & Southern Asia,India,BSNL,3G,"4,450,000","4,984,300","7,026,353","11,303,546"
+Central & Southern Asia,India,BSNL,4G,0,0,0,0
+Central & Southern Asia,India,Idea Cellular,2G,"109,846,827","120,585,043","134,400,000","144,282,000"
+Central & Southern Asia,India,Idea Cellular,3G,"4,100,000","8,925,000","16,100,000","27,600,000"
+Central & Southern Asia,India,Idea Cellular,4G,0,0,0,"18,000"
+Central & Southern Asia,India,Loop Mobile,2G,"2,995,459","2,979,460","395,745",0
+Central & Southern Asia,India,MTNL,2G,"4,239,170","2,314,507","1,613,122","1,552,122"
+Central & Southern Asia,India,MTNL,3G,"885,171","1,170,587","1,747,547","1,904,878"
+Central & Southern Asia,India,MTNL,4G,0,0,0,0
+Central & Southern Asia,India,Procall,2G,0,0,0,0
+Central & Southern Asia,India,Quadrant,2G,"1,696,650","1,947,180","2,513,405","3,047,100"
+Central & Southern Asia,India,Reliance Jio Infocomm,4G,0,0,0,0
+Central & Southern Asia,India,Reliance Mobile,2G,"111,094,171","107,306,063","87,619,723","76,947,996"
+Central & Southern Asia,India,Reliance Mobile,3G,"6,100,000","11,100,000","13,360,000","23,100,000"
+Central & Southern Asia,India,Shyam,2G,"14,802,590","9,450,015","8,261,732","7,846,678"
+Central & Southern Asia,India,Tata Teleservices,2G,"57,286,651","50,209,841","52,779,382","49,543,883"
+Central & Southern Asia,India,Tata Teleservices,3G,"5,409,696","6,456,924","7,888,564","10,673,974"
+Central & Southern Asia,India,Tata Teleservices,4G,0,0,0,0
+Central & Southern Asia,India,Telewings,2G,0,"32,780,880","43,630,934","50,702,396"
+Central & Southern Asia,India,Videocon,2G,"3,640,332","3,969,560","6,452,424","6,958,178"
+Central & Southern Asia,India,Vodafone,2G,"144,676,290","155,277,866","161,676,000","165,038,806"
+Central & Southern Asia,India,Vodafone,3G,"2,800,000","5,200,000","17,000,000","26,309,524"
+Central & Southern Asia,India,Vodafone,4G,0,0,0,50
